@@ -9,7 +9,7 @@ import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5
 
 // @TODO: Inherit the crowdsale contracts
 contract PupperCoinSale is Crowdsale, MintedCrowdsale, CappedCrowdsale, TimedCrowdsale, RefundablePostDeliveryCrowdsale {
-      uint fakenow = now + 5 minutes;
+      // uint fakenow = now + 5 minutes;
 
     constructor(
         // @TODO: Fill in the constructor parameters!
