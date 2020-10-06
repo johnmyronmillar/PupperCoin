@@ -39,10 +39,12 @@ The two contracts options are created within the file.
 
 ## Etherscan
 
-The Kovan Etherscan provides history of the contracts being deployed including the Fee for deployment. The site also shows the deposit of Pupper Coins.
+> The Kovan Etherscan provides history of the contracts being deployed including the Fee for deployment.
 
 ### Etherscan Contract History
 ![Etherscan Contract History](Images/EtherscanContractHist.png)
+
+> The site also shows the deposit of Pupper Coins.
 
 ### Etherscan Pupper Coin Deposit
 ![Etherscan Pupper Coin](Images/EtherscanPUPP.png)
