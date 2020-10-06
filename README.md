@@ -24,12 +24,14 @@ The CrowdSale pulls in the functions from the following:
 * RefundablePostDeliveryCrowdsale
 
 The two contracts options are created within the file. 
+
 > The first contract, PupperCoinSale, allows a deployer to input the constructor parameters to create a crowdsale (rate, wallet, token, cap, open time, close time and goal).
-> The second contract, PupperCoinSaleDeployer, is prefilled with coin attributes and only requires the deployer to the token and sale addresses.
 
 ### Pupper Sale deployment image
 
 ![Pupper Sale](Images/PupperSale.png)
+
+> The second contract, PupperCoinSaleDeployer, is prefilled with coin attributes and only requires the deployer to the token and sale addresses.
 
 ### Pupper Deployer deployment image
 
